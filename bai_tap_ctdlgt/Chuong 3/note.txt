@@ -1,0 +1,1 @@
+- Bài 2: Dữ liệu đầu ra ứng với thời gian thực hiện 2 hàm prefixAverages1 và prefixAverages2

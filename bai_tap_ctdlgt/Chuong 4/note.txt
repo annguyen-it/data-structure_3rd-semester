@@ -1,0 +1,2 @@
+- Dữ liệu nhập của bai3.cpp và bai5.cpp được lưu chung vào /src/in.txt
+- Dữ liệu xuất của bai3.cpp và bai5.cpp được lưu chung vào /src/out.txt

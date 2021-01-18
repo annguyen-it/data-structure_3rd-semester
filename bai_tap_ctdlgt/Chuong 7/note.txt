@@ -1,0 +1,3 @@
+- Lớp Student (bai1.cpp) và Candidate (bai4.cpp) được lưu ở /class/
+- Hàm nhập/xuất và các hàm so sánh được sử dụng trong chương này được lưu ở /includes/
+- Hàm giao hoán và các hàm so sánh được sử dụng trong chương này được lưu ở /sort/

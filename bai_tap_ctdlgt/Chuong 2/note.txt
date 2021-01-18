@@ -1,0 +1,2 @@
+- Bài 9: Em đã thực hiện trên bai1.cpp, bai7.cpp và bai8.cpp
+- Bài 10: Em đã thực hiện trên bai1.cpp, bai7.cpp và bai8.cpp

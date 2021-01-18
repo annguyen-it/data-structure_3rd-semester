@@ -1,0 +1,26 @@
+5
+1
+Nguyen Van A
+2001
+Nam
+10
+2
+Tran Thi A
+2002
+Nu
+15
+3
+Phan Minh C
+2003
+Nam
+20
+4
+Dang D
+2004
+Nu
+25
+5
+Cao Minh E
+2005
+Nam
+30

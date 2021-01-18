@@ -1,0 +1,4 @@
+- Các ví dụ áp dụng trong bai4.cpp được lưu trong /Ap dung bai 4/
+- Các lớp được sử dụng trong bai5.cpp được lưu trong /class/
+- Dữ liệu nhập của bai5.cpp được lưu trong /src/dictionary.txt
+- Dữ liệu xuất của bai5.cpp được lưu trong /src/demo.txt

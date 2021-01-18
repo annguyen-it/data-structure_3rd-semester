@@ -1,0 +1,16 @@
+a)
+    s <- 0
+    for i <- 0 to n do
+        x <- 1
+        for j = 1 to i do
+            x = x * i
+        s = A[i] * x
+    return s
+    
+    ------------------------------------------------
+    
+b)
+    s = A[n]
+    for i <- n-1 to 0 do
+        s = x*s + A[i]        
+    return s
